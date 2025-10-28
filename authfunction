@@ -5,7 +5,7 @@ import getpass
 def authenticate_user():
     valid_username = "admin"
     valid_password = "securepassword123" 
-    test_password = "testsecret" #Skip
+    test_password = "testsecret"
 
     username = input("Enter username: ")
     password = getpass.getpass("Enter password: ")
