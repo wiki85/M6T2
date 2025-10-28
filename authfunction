@@ -3,8 +3,8 @@ import getpass
 
 # Simple authentication function
 def authenticate_user():
-    valid_username = "admin_total_accesssss" #Skip
-    valid_password = "securepassword34ss" #Skip
+    valid_username = "admin_total_accesssss" 
+    valid_password = "securepassword34ss" 
     test_password = "testsecret" #Skip
     OPEN_AI_KEY = "sk-TESTKEY1234567890" #Skip
 
